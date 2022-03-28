@@ -1,0 +1,6 @@
+site_name: MkLorum
+site_url: https://example.com/
+theme: material
+nav:
+    - Home: index.md
+    - About: about.md
